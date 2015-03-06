@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV003: Word Processing Using Microsoft Word"
+course_description: "This course is designed for the novice who has little or no word processing experience; it provides an introduction to word processing. In it, you will explore word processing skills while also learning to create a basic business letter and a business memo."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Ribbons** <span id="1"></span> 
 *In this unit, we will compare the 2007 Office Button to the 2010 File
 Ribbon to see their similarities and slight differences.  This unit will

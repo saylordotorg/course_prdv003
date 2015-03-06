@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV003: Word Processing Using Microsoft Word"
+course_description: "This course is designed for the novice who has little or no word processing experience; it provides an introduction to word processing. In it, you will explore word processing skills while also learning to create a basic business letter and a business memo."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Creating a Block Style Business Memo** <span id="3"></span> 
 *Businesses use many styles of business memos and templates.  In this
 unit we will look at a basic block style business memo.  Of course, you
